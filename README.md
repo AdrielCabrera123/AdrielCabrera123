@@ -46,6 +46,11 @@ Junto con mi compañero, creamos un proyecto orientado al impacto social y comun
 - MongoDB
 - JavaScript
 
+<a href="https://www.canva.com/design/DAGJjGoZKYQ/j-TUzsIgbH1L9U69wSWnUQ/view?utm_content=DAGJjGoZKYQ&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h721e691ad2">
+  👉 Presentación y demostración de la aplicación
+</a>
+
+
 <br>
 
 ---
