@@ -34,6 +34,22 @@
 
 ## Mis Proyectos más destacados 🏆 :
 
+### 🌱 Kawsaypaq
+Junto con mi compañero, creamos un proyecto orientado al impacto social y comunitario, enfocado en la **gestión y visualización de información** para apoyar iniciativas locales.
+
+🔗 Repositorios:  
+👉 https://github.com/YefferSime/Kawsaypaq_  
+👉 https://github.com/YefferSime/my-shop-dashboard
+
+🛠️ Tecnologías:
+- React
+- MongoDB
+- JavaScript
+
+<br>
+
+---
+
 <br>
 
 ### 🧩 Pokedex React
@@ -46,22 +62,6 @@ Aplicación web desarrollada con **React** que consume la **PokéAPI** para most
 - React
 - JavaScript
 - API REST (PokéAPI)
-
-<br>
-
----
-
-### 🌱 Kawsaypaq
-Junto con mi compañero, creamos un proyecto orientado al impacto social y comunitario, enfocado en la **gestión y visualización de información** para apoyar iniciativas locales.
-
-🔗 Repositorios:  
-👉 https://github.com/YefferSime/Kawsaypaq_  
-👉 https://github.com/YefferSime/my-shop-dashboard
-
-🛠️ Tecnologías:
-- React
-- MongoDB
-- JavaScript
 
 <br>
 
